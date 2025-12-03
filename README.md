@@ -80,6 +80,17 @@ Menu operasi array:
 5. Mapping 0/1  
 Fokus: Array, loop, dan switch–case.
 
+Pertemuan 16  –  Tugas 16  :   Program Pendataan Obat (Array 2D)
+Program mencatat data 5 obat: nama obat, satuan, jumlah, dan harga.
+Setiap total harga dihitung otomatis lalu ditampilkan dalam tabel rapi.
+Fitur:
+1. Input nama obat, satuan, jumlah, dan harga
+2. Penyimpanan data dengan array 2 dimensi
+3. Hitung total per obat (jumlah × harga)
+4. Hitung total jumlah & total harga keseluruhan
+5. Output laporan dalam bentuk tabel rapi (tanpa iomanip)
+Fokus: Array 2D, loop, perhitungan total, dan formatting output.
+
 Responsi & UTS 1
 
 Responsi 1 – Program Penjualan Mobil  
@@ -108,7 +119,7 @@ Fokus: Perbandingan struktur perulangan.
 
 ---
 
-Dosen Pembimbing  
+Dosen Pengampu  
 Pak Daurat Sinaga, M.Kom
 
 Mahasiswa  
