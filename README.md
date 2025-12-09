@@ -88,8 +88,18 @@ Fitur:
 2. Penyimpanan data dengan array 2 dimensi
 3. Hitung total per obat (jumlah × harga)
 4. Hitung total jumlah & total harga keseluruhan
-5. Output laporan dalam bentuk tabel rapi (tanpa iomanip)
-Fokus: Array 2D, loop, perhitungan total, dan formatting output.
+5. Output laporan dalam bentuk tabel rapi (tanpa iomanip)                                                                                              Fokus: Array 2D, loop, perhitungan total, dan formatting output.
+
+Pertemuan  17  –  Tugas 17
+Program Pendataan Obat (Array 2D + iomanip)
+Program mencatat data 5 obat: nama obat, satuan, jumlah, dan harga.
+Setiap total harga dihitung otomatis lalu ditampilkan dalam tabel rapi.
+Fitur:
+1. Input nama obat, satuan, jumlah, dan harga.
+2. Penyimpanan data menggunakan array 2 dimensi dan array 1 dimensi.
+3. Hitung total per obat (jumlah × harga).
+4. Hitung total jumlah & total harga keseluruhan.
+5. Output laporan dalam bentuk tabel rapi menggunakan iomanip (setw, left, right).                                                                                                                                                                                                                   Fokus: Array 2D, loop, perhitungan total, dan formatting output menggunakan iomanip.
 
 Responsi & UTS 1
 
